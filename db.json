@@ -1,25 +1,25 @@
-}
-    "posts": [
-        {
-            "day": "Senin",
-            "lesson": [
-                "PEMBIASAAN",
-                "UPACARA",
-                "Seni Budaya",
-                "Seni Budaya",
-                "Seni Budaya",
-                "ISTIRAHAT",
-                "B. Inggris",
-                "B. Inggris",
-                "IPS",
-                "IPS",
-                "B. Indo",
-                "B. Indo"
-            ]
-        }
-    ],
-    "comments": [],
-    "profile": {
-      "name": "typicode"
+{
+  "posts": [     
+    {
+      "day": "Senin",
+      "lesson": [
+          "PEMBIASAAN",
+          "UPACARA",
+          "Seni Budaya",
+          "Seni Budaya",
+          "Seni Budaya",
+          "ISTIRAHAT",
+          "B. Inggris",
+          "B. Inggris",
+          "IPS",
+          "IPS",
+          "B. Indo",
+          "B. Indo"
+      ]
     }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
 }
