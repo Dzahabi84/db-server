@@ -1,5 +1,5 @@
-{
-    "study": [
+}
+    "posts": [
         {
             "day": "Senin",
             "lesson": [
@@ -17,8 +17,9 @@
                 "B. Indo"
             ]
         },
-        {
-            "day"
-        }
-    ]
-}
+    ],
+    "comments": [],
+    "profile": {
+      "name": "typicode"
+    }
+ }
